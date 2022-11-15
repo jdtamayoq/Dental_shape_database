@@ -11,11 +11,13 @@ La adquisición de los 50 modelos digitales se realizó con el AutoScan-DS-EX en
 - Experto 3: odontóloga general de la Universidad Autónoma de Manizales con un año de experiencia.
 
 ## Caracteristicas:
-20 variables: dos tomas con 15 días de diferencia.
+22 variables: dos tomas con 15 días de diferencia.
 
-- 14 Anchos meso-distales
-- 1 ancho intercanino
-- 2 interpremolares
-- 1 intermolar
-- 1 Etiqueta dada por experto de la forma del arco (1:cuadrada, 2:ovalada, 3:triangular)
-- 1 Etiqueta dada por el consenso entre los 3 expertos considerando las dos tomas (Voto mayoritario ponderado)
+- 1 Numero modelo (1- 60) 10 modelos fueron descartados --Int
+- 1 Experto (1-3) --String
+- 14 Anchos meso-distales  --Float
+- 1 ancho intercanino  --Float
+- 2 interpremolares  --Float
+- 1 intermolar  --Float
+- 1 Etiqueta dada por experto de la forma del arco (1:cuadrada, 2:ovalada, 3:triangular)  --Int 
+- 1 Etiqueta dada por el consenso entre los 3 expertos considerando las dos tomas (Voto mayoritario ponderado)  --Int
