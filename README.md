@@ -28,8 +28,8 @@ La adquisición de los 50 modelos digitales se realizó con el AutoScan-DS-EX en
 ### Maxilar superior
 https://github.com/jdtamayoq/Dental_shape_database/blob/main/maxilar_superior.csv
 
-| **Modelo** | **Toma** | **Experto** | **iso17** | **iso16** | **...** | **iso26** | **iso27** | **ancho intercanino (3-3)** | **anchura interpremolar (4-4)** | **anchura interpremolar (5-5)** | **ancho intermolar** | **Etiqueta (Voto Mayoritario)** | **Etiqueta (experto)** |
-|------------|----------|-------------|-----------|------------|---------|-----------|-----------|-----------------------------|---------------------------------|---------------------------------|----------------------|---------------------------------|-------------------------|
+| **Modelo** | **Toma** | **Experto** | **iso17** | **iso16 ** | **...** | **iso26** | **iso27** | **ancho intercanino (3-3)** | **anchura interpremolar (4-4)** | **anchura interpremolar (5-5)** | **ancho intermolar** | **Etiqueta (Voto Mayoritario)** | **Etiqueta (experto) ** |
+|:----------:|:--------:|:-----------:|:---------:|:----------:|:-------:|:---------:|:---------:|:---------------------------:|:-------------------------------:|:-------------------------------:|:--------------------:|:-------------------------------:|:-----------------------:|
 | 1          | 1        | Experto 1   | 9,33      | 8,98       | ...     | 9,08      | 9,13      | 36,33                       | 33,46                           | 35,76                           | 38,91                | 2                               | 1                       |
 | 4          | 1        | Experto 1   | 9,37      | 10,36      | ...     | 9,82      | 10,25     | 42,04                       | 38,21                           | 46,7                            | 45,84                | 2                               | 2                       |
 | 5          | 1        | Experto 1   | 10,15     | 10,55      | ...     | 10,55     | 9,12      | 32,89                       | 28,58                           | 36,52                           | 41,26                | 3                               | 3                       |
