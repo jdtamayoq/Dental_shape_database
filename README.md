@@ -26,6 +26,8 @@ La adquisición de los 50 modelos digitales se realizó con el AutoScan-DS-EX en
 ## Data 
 
 ### Maxilar superior
+https://github.com/jdtamayoq/Dental_shape_database/blob/main/maxilar_superior.csv
+
 | **Modelo** | **Toma** | **Experto** | **iso17** | **iso16** | **...** | **iso26** | **iso27** | **ancho intercanino (3-3)** | **anchura interpremolar (4-4)** | **anchura interpremolar (5-5)** | **ancho intermolar** | **Etiqueta (Voto Mayoritario)** | **Etiqueta (experto)** |
 |------------|----------|-------------|-----------|------------|---------|-----------|-----------|-----------------------------|---------------------------------|---------------------------------|----------------------|---------------------------------|-------------------------|
 | 1          | 1        | Experto 1   | 9,33      | 8,98       | ...     | 9,08      | 9,13      | 36,33                       | 33,46                           | 35,76                           | 38,91                | 2                               | 1                       |
