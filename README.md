@@ -38,7 +38,7 @@ https://github.com/jdtamayoq/Dental_shape_database/blob/main/maxilar_superior.cs
 ### Maxilar inferior
 https://github.com/jdtamayoq/Dental_shape_database/blob/main/maxilar_superior.csv
 
-| **Modelo** | **Toma** | **Experto** | **iso37** | **iso36 ** | **...** | **iso46** | **iso47** | **ancho intercanino (3-3)** | **anchura interpremolar (4-4)** | **anchura interpremolar (5-5)** | **ancho intermolar** | **Etiqueta (Voto mayoritario)** | **Etiqueta (Experto) ** |
+| **Modelo** | **Toma** | **Experto** | **iso37** | **iso36** | **...** | **iso46** | **iso47** | **ancho intercanino (3-3)** | **anchura interpremolar (4-4)** | **anchura interpremolar (5-5)** | **ancho intermolar** | **Etiqueta (Voto mayoritario)** | **Etiqueta (Experto)** |
 |:----------:|:--------:|:-----------:|:---------:|:----------:|:-------:|:---------:|:---------:|:---------------------------:|:-------------------------------:|:-------------------------------:|:--------------------:|:-------------------------------:|:-----------------------:|
 | 1          | 1        | Experto 1   | 9,9       | 8,71       | ...     | 9,18      | 9,44      | 26,91                       | 31,48                           | 36,4                            | 38,73                | 1                               | 1                       |
 | 4          | 1        | Experto 1   | 9,71      | 10,59      | ...     | 10,04     | 9,91      | 29,24                       | 29,97                           | 33,22                           | 38,51                | 2                               | 2                       |
