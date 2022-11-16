@@ -16,10 +16,10 @@ La adquisición de los 50 modelos digitales se realizó con el AutoScan-DS-EX en
 - 1 Numero modelo (1- 60) 10 modelos fueron descartados --Int
 - 1 Toma (1-2) 15 días de diferencia entre toma --Int
 - 1 Experto (1-3) --String
-- 14 Anchos meso-distales  --Float
-- 1 ancho intercanino  --Float
-- 2 interpremolares  --Float
-- 1 intermolar  --Float
+- 14 Anchos meso-distales (iso17-iso27 o iso37-iso47)  --Float
+- 1 ancho intercanino (ancho intercanino (3-3)) --Float
+- 2 interpremolares (anchura interpremolar (4-4) y anchura interpremolar (5-5))  --Float
+- 1 intermolar (ancho intermolar)  --Float
 - 1 Etiqueta dada por experto de la forma del arco (1:cuadrada, 2:ovalada, 3:triangular)  --Int 
 - 1 Etiqueta dada por el consenso entre los 3 expertos considerando las dos tomas (Voto mayoritario ponderado)  --Int
 
