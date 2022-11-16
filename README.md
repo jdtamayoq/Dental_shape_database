@@ -21,3 +21,10 @@ La adquisición de los 50 modelos digitales se realizó con el AutoScan-DS-EX en
 - 1 intermolar  --Float
 - 1 Etiqueta dada por experto de la forma del arco (1:cuadrada, 2:ovalada, 3:triangular)  --Int 
 - 1 Etiqueta dada por el consenso entre los 3 expertos considerando las dos tomas (Voto mayoritario ponderado)  --Int
+
+| Modelo | Experto   | iso17 | iso16  | ... | iso26 | iso27 | ancho intercanino (3-3) | anchura interpremolar (4-4) | anchura interpremolar (5-5) | ancho intermolar | Etiqueta (Voto Mayoritario) | Etiqueta (experto)  |
+|--------|-----------|-------|--------|-----|-------|-------|-------------------------|-----------------------------|-----------------------------|------------------|-----------------------------|---------------------|
+| 1      | Experto 1 | 9,33  | 8,98   | ... | 9,08  | 9,13  | 36,33                   | 33,46                       | 35,76                       | 38,91            | 2                           | 1                   |
+| 4      | Experto 1 | 9,37  | 10,36  | ... | 9,82  | 10,25 | 42,04                   | 38,21                       | 46,7                        | 45,84            | 2                           | 2                   |
+| 5      | Experto 1 | 10,15 | 10,55  | ... | 10,55 | 9,12  | 32,89                   | 28,58                       | 36,52                       | 41,26            | 3                           | 3                   |
+| 6      | Experto 1 | 9,66  | 10,65  | ... | 10,12 | 10,02 | 36,91                   | 34,13                       | 37,77                       | 40,4             | 3                           | 3                   |
