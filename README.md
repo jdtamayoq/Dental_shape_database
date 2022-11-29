@@ -1,4 +1,4 @@
-# Variabilidad intra e inter examinador en la medición de la forma de arco en modelos digitales usando como estándar el voto mayoritario
+# Medición de la forma de arco en modelos digitales usando como referencia el voto mayoritario
 #
 ## Introdución:
 Mantener la forma de arco, o generar el menor cambio posible durante los tratamientos de ortodoncia, conduce a una mejor estabilidad en la fase de retención. El objetivo de este trabajo es brindar a la comunidad un estudio de la variabilidad de las mediciones de las formas del arco a partir de tres expertos y su consenso por medio del voto mayoritario.
