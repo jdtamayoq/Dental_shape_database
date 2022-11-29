@@ -25,11 +25,18 @@ La adquisición de los 50 modelos digitales se realizó con el AutoScan-DS-EX en
 
 ## Voto mayoritario ponderado
 
+La versión ponderada del voto mayoritario es donde el experto con mayor experiencia tiene mayor ponderación (peso).
+El siguiente diagrama muestra la clasificación por el voto mayoritario ponderado:
+
 <div>
 <p style = 'text-align:center;'>
 <img src="https://github.com/jdtamayoq/Dental_shape_database/blob/main/vote_m.png" alt="JuveR" width="500px">
 </div>
 </p>
+
+ Por ejemplo, al clasificar un modelo dental como “cuadrado”, si al menos dos de cada tres expertos clasifican el modelo como “cuadrado”, entonces se considera cuadrado.
+ En caso de que cada experto elija una forma de arco diferente, el experto con mayor experiencia decide.
+
 
 ## Datos ejemplo
 
