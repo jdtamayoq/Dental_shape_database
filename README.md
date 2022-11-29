@@ -23,6 +23,10 @@ La adquisición de los 50 modelos digitales se realizó con el AutoScan-DS-EX en
 - 1 Etiqueta dada por experto de la forma del arco (1:cuadrada, 2:ovalada, 3:triangular)  --Int 
 - 1 Etiqueta dada por el consenso entre los 3 expertos considerando las dos tomas (Voto mayoritario ponderado)  --Int
 
+## Voto mayoritario ponderado
+
+
+
 ## Datos ejemplo
 
 ### Maxilar superior
