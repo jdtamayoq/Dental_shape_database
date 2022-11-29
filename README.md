@@ -1,4 +1,4 @@
-# Medición de la forma de arco en modelos digitales usando como referencia el voto mayoritario
+# Medición de la Forma de Arco en Modelos Digitales Usando como Referencia el Voto Mayoritario
 #
 ## Introdución:
 Mantener la forma de arco, o generar el menor cambio posible durante los tratamientos de ortodoncia, conduce a una mejor estabilidad en la fase de retención. El objetivo de este trabajo es brindar a la comunidad un estudio de la variabilidad de las mediciones de las formas del arco a partir de tres expertos y su consenso por medio del voto mayoritario.
@@ -25,6 +25,7 @@ La adquisición de los 50 modelos digitales se realizó con el AutoScan-DS-EX en
 
 ## Voto mayoritario ponderado
 
+<img src="https://github.com/jdtamayoq/Dental_shape_database/blob/main/vote_m.png" alt="JuveR" width="300px">
 
 
 ## Datos ejemplo
