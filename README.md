@@ -25,8 +25,11 @@ La adquisición de los 50 modelos digitales se realizó con el AutoScan-DS-EX en
 
 ## Voto mayoritario ponderado
 
-<img src="https://github.com/jdtamayoq/Dental_shape_database/blob/main/vote_m.png" alt="JuveR" width="300px">
-
+<div>
+<p style = 'text-align:center;'>
+<img src="https://github.com/jdtamayoq/Dental_shape_database/blob/main/vote_m.png" alt="JuveR" width="500px">
+</div>
+</p>
 
 ## Datos ejemplo
 
